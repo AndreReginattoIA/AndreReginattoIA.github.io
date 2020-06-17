@@ -38258,7 +38258,7 @@ new Y.fY($.cw.gaa()).hC("/Ufs",t,t)},
 $S:0}
 A.a__.prototype={
 $0:function(){var t=u.K
-new Y.fY($.cw.gaa()).hC("/Profile",t,t)},
+new Y.fY($.cw.gaa()).hC("/Deliveryman",t,t)},
 $S:0}
 A.a_0.prototype={
 $0:function(){var t=u.K
